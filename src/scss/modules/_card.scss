@@ -1,0 +1,41 @@
+.card-title {
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.card-name {
+  background: #9c3;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2) inset;
+  padding: 10px 7px;
+  margin-bottom: 15px;
+  margin-left: -15px;
+  margin-right: -15px;
+  height: 40px;
+
+  &.t-blue {
+    background: #00a8b1;
+  }
+}
+
+.card-fish {
+  border: 1px solid #979797;
+  background: #fff;
+  padding: 0px;
+  margin: 15px 0px 30px 0px;
+}
+
+.card-fish-image {
+  width: 100%;
+}
+
+.card-fish-description {
+  font-size: 16px;
+  font-weight: 500;
+  margin: 0px 20px 20px 20px;
+}
+
+.card-fish-name {
+  margin: 20px 0px 0px 2px;
+}
